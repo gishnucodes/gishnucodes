@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/gishnu.jpg" alt="Gishnu" width="220" />
+
 ## Hi there, I'm Gishnu 👋
 
 **I build AI systems that think in graphs.**
